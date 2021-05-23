@@ -1,5 +1,3 @@
-<!--<?php include('basic_info.html'); ?>-->
-
 <div class="container" style="text-align:justify; font-size:18px;">
 
 
@@ -60,8 +58,5 @@ of the manuscripts to a special issue whose Call for Papers can be found <a href
 Submissions will be peer reviewed consistent with the journal practices.
 <br/>
 <br/>
-
-
-
 
 </div>

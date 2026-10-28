@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Francisco Cruz",
+    "file": "francisco-cruz-official.jpg",
+    "profile": "https://franciscocruz.org/",
+    "image_source": "https://a2r2lab.org/images/people/fcruz2026_lr.jpg",
+    "verified_on_page": "https://a2r2lab.org/people.html"
+  },
+  {
+    "name": "Thommen George Karimpanal",
+    "file": "thommen-karimpanal-homepage.png",
+    "profile": "https://www.thommengk.com/",
+    "image_source": "https://static.wixstatic.com/media/60b08d_ab9458bef94d4e39a069954bf9312e96~mv2.png",
+    "verified_on_page": "https://www.thommengk.com/"
+  },
+  {
+    "name": "Srijita Das",
+    "file": "srijita-das-homepage.jpg",
+    "profile": "https://sites.google.com/view/srijitadas/",
+    "image_source": "https://sites.google.com/view/srijitadas/",
+    "verified_on_page": "https://sites.google.com/view/srijitadas/"
+  },
+  {
+    "name": "Francisco M. López",
+    "file": "francisco-lopez-official.jpg",
+    "profile": "https://fias.institute/de/forschung/fellows/detail/lopez-francisco/",
+    "image_source": "https://fias.institute/images/content-1by1/400/foto_franciscolopez.jpg",
+    "verified_on_page": "https://fias.institute/de/forschung/fellows/detail/lopez-francisco/"
+  },
+  {
+    "name": "Yifei Chen",
+    "file": "yifei-chen-profile.png",
+    "profile": "https://yfchenshirley.github.io/yifei.chen/",
+    "image_source": "https://yfchenshirley.github.io/yifei.chen/assets/images/author-small.png",
+    "verified_on_page": "https://yfchenshirley.github.io/yifei.chen/"
+  },
+  {
+    "name": "Shahmir Khan Mohammed",
+    "file": "shahmir-khan-scholar.jpg",
+    "profile": "https://scholar.google.com/citations?user=lU6d2EYAAAAJ&hl=en",
+    "image_source": "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=lU6d2EYAAAAJ&citpid=4",
+    "verified_on_page": "https://a2r2lab.org/people.html"
+  }
+]

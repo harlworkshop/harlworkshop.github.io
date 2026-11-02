@@ -12,8 +12,8 @@ File: Navigation CSS
 #topnav, #topnav a{text-transform:uppercase; color:#06213F; background-color:#F9F9F9;}
 #topnav a:hover, #topnav li.active a{color:#55ABDA; background-color:#F9F9F9;}
 #topnav ul, #topnav li{margin:0; padding:0; list-style:none;}
-#topnav li{display:inline; margin-right:30px;}
-#topnav li.last{margin:0;}
+#topnav li{display:inline-block; margin-right:20px; white-space:nowrap;}
+#topnav li.last, #topnav li:last-child{margin-right:0;}
 
 /* ----------------------------------------------Column Navigation------------------------------------- */
 
